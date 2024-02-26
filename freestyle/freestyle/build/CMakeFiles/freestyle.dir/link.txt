@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g CMakeFiles/freestyle.dir/main.cpp.o CMakeFiles/freestyle.dir/Log.cpp.o -o freestyle 

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/exFundamentals.dir/ex02part1.cpp.o -o exFundamentals 

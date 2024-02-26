@@ -1,0 +1,3 @@
+/home/ctw03421/Bootcamp/freestyle/freestyle/build/CMakeFiles/freestyle.dir
+/home/ctw03421/Bootcamp/freestyle/freestyle/build/CMakeFiles/edit_cache.dir
+/home/ctw03421/Bootcamp/freestyle/freestyle/build/CMakeFiles/rebuild_cache.dir

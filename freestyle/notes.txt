@@ -1,0 +1,35 @@
+forkbomb;
+sbrk
+borrowing
+vulnerabilities:
+	-heartbleed
+	-metldown
+	-spectre
+
+sonarqube
+
+c++ new & delete if you use, you need a good reason why (ask chatgpt)
+explain to your scrum knighy and hoi why youre using new & delete mid pull request
+
+dota 2 transition to vulkan
+
+int big engine small engine
+
+original gameboy when rendering careless creationg of objects in pre allocated mem, breaks screen
+
+GDB // LLDB / VALGRIND
+
+use_counter d'um share_ptr
+
+VCS
+
+review GIT basics
+
+dave farley
+
+most projects with c+++ are migrating to bazel
+
+setup till marco
+platarforma android
+
+

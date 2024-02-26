@@ -1,0 +1,3 @@
+/home/ctw03421/Bootcamp/constructdestructassign/exFundamentals/CMakeFiles/exFundamentals.dir
+/home/ctw03421/Bootcamp/constructdestructassign/exFundamentals/CMakeFiles/edit_cache.dir
+/home/ctw03421/Bootcamp/constructdestructassign/exFundamentals/CMakeFiles/rebuild_cache.dir

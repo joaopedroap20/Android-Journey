@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ctw03421/Bootcamp/freestyle/freestyle/build",
+  "command": "/usr/bin/clang++   -g -g -std=gnu++17 -o CMakeFiles/freestyle.dir/main.cpp.o -c /home/ctw03421/Bootcamp/freestyle/freestyle/main.cpp",
+  "file": "/home/ctw03421/Bootcamp/freestyle/freestyle/main.cpp"
+},
+{
+  "directory": "/home/ctw03421/Bootcamp/freestyle/freestyle/build",
+  "command": "/usr/bin/clang++   -g -g -std=gnu++17 -o CMakeFiles/freestyle.dir/Log.cpp.o -c /home/ctw03421/Bootcamp/freestyle/freestyle/Log.cpp",
+  "file": "/home/ctw03421/Bootcamp/freestyle/freestyle/Log.cpp"
+}
+]
